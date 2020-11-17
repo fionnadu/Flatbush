@@ -29,5 +29,9 @@ Some qualities that make a neighborhood desirable include: safety, public school
 
 
 ## Flatbush Airbnb Analysis
+Compared to other neighborhoods in Brooklyn, Flatbush is an affordable and popular area to rent Airbnbs. The average price of an Airbnb is approximately $92.21, with a minimum of $20 and a maximum of $1100, a very large range. The availability graph shows that Airbnbs in Flatbush have less availability compared to other Brooklyn neighborhoods, indicating that Airbnbs are in high demand here.
+
 ![alt text](Brooklyn Average Prices.png "Logo Title Text 1")  
+
+![alt text](Brooklyn Average Availability.png "Logo Title Text 1")  
 
