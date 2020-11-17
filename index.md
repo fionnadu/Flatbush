@@ -29,5 +29,5 @@ Some qualities that make a neighborhood desirable include: safety, public school
 
 
 ## Flatbush Airbnb Analysis
-
+![alt text](BrooklynAveragePrices.png "Logo Title Text 1")  
 
