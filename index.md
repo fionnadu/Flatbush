@@ -38,8 +38,10 @@ Compared to other neighborhoods in Brooklyn, Flatbush is an affordable and popul
 
 ![alt text](Brooklyn Average Availability.png "Logo Title Text 1")  
 
-Most of the Airbnb options in Flatbush are private rooms, but entire homes/apartments are common as well.
+Most of the Airbnb options in Flatbush are private rooms, but entire homes/apartments are common as well.  
 ![alt text](Flatbush Room Types.png "Logo Title Text 1")  
 
+Out of the Airbnb room types, the most expensive is entire homes/apartments.
 
+![alt text](Price vs Room Types.png "Logo Title Text 1")  
 
