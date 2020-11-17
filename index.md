@@ -25,6 +25,9 @@ Some qualities that make a neighborhood desirable include: safety, public school
 * StreetAdvisor: 8/10, #6 in Brooklyn
 * Brick: #2/10
 * DNAInfo: #40/69 (East Flatbush)
-* Niche: B+, #95 in NYC
+* Niche: B+, #95 in NYC  
+
+
+## Flatbush Airbnb Analysis
 
 
