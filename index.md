@@ -35,3 +35,7 @@ Compared to other neighborhoods in Brooklyn, Flatbush is an affordable and popul
 
 ![alt text](Brooklyn Average Availability.png "Logo Title Text 1")  
 
+![alt text](Flatbush Room Types.png "Logo Title Text 1")  
+
+
+
